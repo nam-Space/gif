@@ -1,0 +1,17 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+.gif-wrapper{
+    margin-top: 100px;
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+}
+
+.img-gif{
+    padding: 14px;
+    display: block;
+}
